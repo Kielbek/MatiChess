@@ -1,0 +1,17 @@
+{
+  "NAVBAR": {
+    "ABOUT": "O nas",
+    "CONTACT": "Kontakt",
+    "PLAY_NOW": "Graj teraz"
+  },
+  "FOOTER": {
+    "COPYRIGHT": "&copy; 2024 MatiChess. Wszelkie prawa zastrzeżone."
+  },
+  "HOMEPAGE": {
+    "WELCOME_MESSAGE": "Witaj w MatiChess!",
+    "SUBTITLE": "Gra w szachy nigdy nie była bardziej ekscytująca. Zacznij grać teraz!",
+    "GAMES_TODAY": "Gry dzisiaj",
+    "PLAYERS_NOW": "Graczy teraz",
+    "PLAY_ONLINE": "Graj online"
+  }
+}
