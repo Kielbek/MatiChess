@@ -1,0 +1,17 @@
+{
+  "NAVBAR": {
+    "ABOUT": "About",
+    "CONTACT": "Contact",
+    "PLAY_NOW": "Play Now"
+  },
+  "FOOTER": {
+    "COPYRIGHT": "&copy; 2024 MatiChess. All rights reserved."
+  },
+  "HOMEPAGE": {
+    "WELCOME_MESSAGE": "Welcome to MatiChess!",
+    "SUBTITLE": "Chess has never been more exciting. Start playing now!",
+    "GAMES_TODAY": "Games Today",
+    "PLAYERS_NOW": "Playing Now",
+    "PLAY_ONLINE": "Play Online"
+  }
+}
